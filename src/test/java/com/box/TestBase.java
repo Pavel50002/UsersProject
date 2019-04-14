@@ -11,7 +11,7 @@ import java.text.SimpleDateFormat;
 import java.util.Random;       // метод рандома
 import java.util.Date;      // метод даты
 
-public class TestBase extends Exception {
+public class TestBase {
     RequestSpecification rspec;
     RequestSpecBuilder build;
 
